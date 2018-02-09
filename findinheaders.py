@@ -41,3 +41,4 @@ def read_all_files_in_folders():
 
 get_delimiter();
 read_all_files_in_folders();
+raw_input();
